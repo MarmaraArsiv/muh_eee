@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Dynamic%20Systems%20and%20Control) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Dynamic%20Systems%20and%20Control) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -39,9 +39,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Communication%20Engineering) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Communication%20Engineering) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -64,9 +64,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Introduction%20to%20Digital%20Signal%20Processing) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Introduction%20to%20Digital%20Signal%20Processing) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -88,9 +88,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Electromagnetic%20Waves) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Electromagnetic%20Waves) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -114,9 +114,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Fundamentals%20of%20Machine%20Learning) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Fundamentals%20of%20Machine%20Learning) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:

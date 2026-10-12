@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Summer%20Practice%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Summer%20Practice%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ### 📘 Electronics 2
 
@@ -25,9 +25,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Electronics%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Electronics%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -52,9 +52,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Energy%20Conversion) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Energy%20Conversion) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -79,9 +79,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Fundamentals%20of%20Electromagnetics) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Fundamentals%20of%20Electromagnetics) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -106,9 +106,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Signals%20and%20Systems) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Signals%20and%20Systems) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -133,9 +133,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdGS_WJdAehOATDalgEyJ41QmYz5nAudNb6inqa98HRbO40Ow/viewform?usp=pp_url&entry.1114553489=Probability%20and%20Random%20Variables) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeyWv4djF04sZxhuYrSWSSpz6xEM-YBLIFw3EG-lL5DFHuGIw/viewform?usp=pp_url&entry.1753317446=Probability%20and%20Random%20Variables) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
